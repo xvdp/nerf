@@ -2,7 +2,7 @@
 ### [Project Page](http://tancik.com/nerf) | [Video](https://youtu.be/JuH79E8rdKc) | [Paper](https://arxiv.org/abs/2003.08934) | [Data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 [![Open Tiny-NeRF in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bmild/nerf/blob/master/tiny_nerf.ipynb)
 pytorch translation ->
-[![Open Tiny-NeRF-Pytorch in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/xvdp/nerf/blob/master/tiny_nerf_pytorch.ipynb)<br>
+[![Open Tiny-NeRF-Pytorch in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xvdp/nerf/blob/master/tiny_nerf_pytorch.ipynb)<br>
 
 Tensorflow implementation of optimizing a neural representation for a single scene and rendering new views.<br><br>
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://tancik.com/nerf)  
